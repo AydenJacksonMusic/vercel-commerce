@@ -63,3 +63,4 @@ vercel --prod # Deploys to production
 
 * How to get your [collection handle](https://docs.fourthwall.com/storefront/collection).
 * [Style your store](https://my-shop.fourthwall.com/admin/dashboard/store-design/layout/index/) for the [checkout flow](https://docs.fourthwall.com/storefront/checkout).
+
